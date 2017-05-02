@@ -45,3 +45,19 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Skip these
+*images*/
+archive/
+*.png
+*.jpg
+*.p
+data/
+dataold/
+.ipynb_checkpoints/
+NEW/
+__pycache__/
+*.zip
+*.mp4
+training*/
+working*/
